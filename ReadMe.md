@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a first year CSE student<br>I' m currently learning C++ with DSA<br>
+I'm a first year CSE student<br>I'm currently learning C++ with DSA<br>
 
 
 ## 🌐 Socials:
