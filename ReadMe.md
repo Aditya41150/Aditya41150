@@ -72,4 +72,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya41150.Aditya41150&left_color=blue&right_color=blue"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/Aditya41150/Aditya41150/output/snake.svg" alt="Snake animation" />
+
