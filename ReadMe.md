@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">- 🏫 CU'26 CSE<br>- 📚 I'm currently learning DSA and Native Android Developement<br>- ⚡ In my free time I like Listening to Music and playing online games</h4>
+<h4 align="left">- 🏫 Chandigarh Univeristy'26 CSE<br>- 📚 I'm currently learning DSA and App Developement <br>- ⚡ In my free time I like Listening to Music and playing online games</h4>
 
 ##
 # 📊 GitHub Stats:
