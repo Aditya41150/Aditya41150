@@ -40,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
 </div>
 
-###
 ## 🔗:
 <img align="right" height="250" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"  />
 
@@ -61,23 +60,7 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
 <br clear="both">
-
-###
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
