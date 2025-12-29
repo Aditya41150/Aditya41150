@@ -1,5 +1,62 @@
-<h1 align="left">👩‍💻  About Me</h1>
+<h1 align="left">👩‍💻  About Me</h1># 🚀 Aditya | Software & App Developer
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Chandigarh%20University-2026-blue?style=for-the-badge&logo=education" />
+  <img src="https://img.shields.io/badge/LeetCode-Solving_DSA-orange?style=for-the-badge&logo=leetcode" />
+</p>
+
+### 👨‍💻 About Me
+I am a Final year student focused on building high-performance desktop and mobile applications. Currently specializing in **C++ DSA** and cross-platform development using **Flutter** and **Tauri (Rust/React)**. 
+
+- 🔭 **Current Projects:** Building **Focus Tracker** (Tauri v2) and **Taskify** (Flutter).
+- 🛠️ **Expertise:** Bridging the gap between robust backend logic (C++/SQL) and seamless UI/UX.
+- 🎯 **Goal:** Seeking SDE Internships where I can contribute to scalable product development.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core:**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks & Tools:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+* **[Focus Tracker](https://github.com/Aditya41150/focus-tracker)**: A desktop productivity app built with **Tauri v2** and **React**. Features deep system integration for live window tracking and SQL-based analytics.
+* **[Fare-Finder](https://github.com/Aditya41150/Fare-Finder-Cabs-and-Bikes)**: A logistics price aggregator optimizing route selection for commuters.
+* **[Taskify](https://github.com/Aditya41150/Taskify)**: A cross-platform task management app built with **Flutter** and **Firebase**.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya41150&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya41150&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/Aditya41150/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:singhadi437@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/Aditya41150" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya41150/Aditya41150/output/snake.svg" alt="Snake animation" />
+</p>
 ###
 
 <h4 align="left">- 🏫 Chandigarh Univeristy'26 CSE<br>- 📚 I'm currently learning DSA and App Developement <br>- ⚡ In my free time I like Listening to Music and playing online games</h4>
