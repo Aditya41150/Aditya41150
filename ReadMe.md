@@ -1,56 +1,57 @@
-<!--
-👋 Hi! I'm Aditya — feel free to customize any parts below!
--->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Computer Science Student • App & Web Developer 🚀</h3>
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-1a0281251" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Aditya_57/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%230E1012.svg?style=flat&logo=leetcode&logoColor=#FFA116" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="left">Computer Science Student • App & Web Developer 🚀</p>
 
----
+###
 
-### 👨‍💻 About Me
+<h2 align="left">About me</h2>
 
-I’m a passionate **Computer Science undergraduate (2022–26)** with experience in building **mobile, web, and backend applications**. My focus is on writing clean, maintainable code and solving real-world problems with efficient solutions.
+###
 
-✔️ Building apps with **Flutter, React, Tauri**  
-✔️ Working with backend & cloud services  
-✔️ Strong understanding of **DSA & C++ basics**
+<p align="left">I’m a passionate Computer Science undergraduate (2022–26) with experience in building mobile, web, and backend applications. My focus is on writing clean, maintainable code and solving real-world problems with efficient solutions.<br><br>✔️ Building apps with Flutter, React, Tauri<br>✔️ Working with backend & cloud services<br>✔️ Strong understanding of DSA & C++ basics</p>
 
----
+###
 
-### 🛠️ Tech Stack
+<h2 align="left">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
 
-### 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya41150&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya41150&theme=radical" alt="Streak Stats" />
-</p>
-
----
 
 ### 🔭 Featured Projects
 
@@ -64,24 +65,65 @@ Here are a few projects I’m proud of:
 | **Proxy Web Server (C)** | Lightweight C server demonstrating socket programming fundamentals. |
 | **Fare Finder App** | App comparing ride fares from top cab services with real-time data. |
 
-👉 You can explore more pinned repositories below.
+###
 
----
+<h3 align="left">🚀 GitHub Stats</h3>
 
-### 🌱 What I’m Learning
+###
 
-- Advanced Flutter architecture
-- Rust & Tauri for desktop apps
-- Building scalable backend APIs
-- Cloud DevOps fundamentals
+<br clear="both">
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya41150&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya41150&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Aditya41150&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### 💬 Let’s Connect
+###
 
-I’m always open to collaborations, discussions, and opportunities!
+<h3 align="left">Connect With  Me</h3>
 
-📫 **Reach me at:** singhadi437@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/aditya41150
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/aditya41150/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/_Aditya_x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="singhadi437@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Aditya41150/Aditya41150/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">My Articles</p>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@singhadi437/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+</div>
+
+###
+
