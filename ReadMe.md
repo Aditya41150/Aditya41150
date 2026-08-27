@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya 👋</h1>
-<h3 align="center">Computer Science Engineering Student · MERN Stack Developer · Competitive Programmer</h3>
+<h3 align="center">Computer Science Engineering Student · Full-Stack Developer · Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://aditya-s-porfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -11,26 +11,31 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing a **B.E. in Computer Science and Engineering** in India
-- 💻 Building end-to-end apps with the **MERN stack** (MongoDB, Express, React, Node.js) — also comfortable with **Flutter**
-- 🧠 Sharpening problem-solving skills on **Codeforces, CodeChef, and LeetCode** in **C++**
-- 🔍 Exploring **system design, blockchain (Solidity/Ethereum), networking, digital forensics, and IoT**
-- 🌱 Currently deepening my core CS fundamentals while prepping for SDE internships/placements
-- 📫 Open to **Software Engineering internships & full-time roles** — let's connect!
+* 🎓 Pursuing a **B.E. in Computer Science and Engineering** in India
+* 💻 Building full-stack applications with **React, Node.js, Express, and MongoDB**
+* 📱 Also building cross-platform applications with **Flutter & Dart**
+* 🧠 Solving problems on **Codeforces, CodeChef, and LeetCode** using **C++**
+* 🌐 Interested in **system design, networking, distributed systems, and backend engineering**
+* 🔐 Exploring **blockchain, digital forensics, and IoT** through hands-on projects
+* 🌱 Strengthening my **core CS fundamentals** while preparing for software engineering opportunities
+* 📫 Open to **Software Engineering internships & full-time roles**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 </p>
 
-**Frontend**
+**Frontend & Mobile**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -38,6 +43,7 @@
 </p>
 
 **Backend & Database**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -46,6 +52,7 @@
 </p>
 
 **Tools & Platforms**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -63,24 +70,52 @@
     <th>Stack</th>
     <th>Highlights</th>
   </tr>
+
   <tr>
-    <td><a href="https://github.com/Aditya41150/Fare-Finder-Cabs-and-Bikes"><b>Fare Finder – Cabs & Bikes</b></a></td>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /></td>
-    <td>Flutter app comparing real-time cab & bike fares across ride-sharing services like Uber, in one place ⭐ 1</td>
+    <td>
+      <a href="https://github.com/Aditya41150/Fare-Finder-Cabs-and-Bikes">
+        <b>Fare Finder – Cabs & Bikes</b>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+    <td>
+      Cross-platform app for comparing cab and bike fare estimates across ride-sharing services
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://github.com/Aditya41150/Google-Form-Auto-Fill-Extension"><b>Google Forms Autofill</b></a></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    <td>Chrome extension that automates Google Form filling — published on the Chrome Web Store ⭐ 3</td>
+    <td>
+      <a href="https://github.com/Aditya41150/Google-Form-Auto-Fill-Extension">
+        <b>Google Forms Autofill</b>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      Chrome extension that automates Google Forms filling and is published on the Chrome Web Store
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://github.com/Aditya41150/Proxy-web-server-in-c"><b>Proxy Web Server in C</b></a></td>
-    <td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /></td>
-    <td>Low-level networking project implementing an HTTP proxy server from scratch</td>
+    <td>
+      <a href="https://github.com/Aditya41150/Proxy-web-server-in-c">
+        <b>Proxy Web Server in C</b>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+    </td>
+    <td>
+      Low-level networking project implementing an HTTP proxy server from scratch
+    </td>
   </tr>
 </table>
 
-**More projects:** ToDo App · Pomodoro Timer · QuickNotes · Weather App · GitHub Profile Finder — see my [portfolio](https://aditya-s-porfolio.netlify.app/) for the full list.
+See my [portfolio](https://aditya-s-porfolio.netlify.app/) for the complete project collection.
 
 ---
 
@@ -95,6 +130,7 @@
   <img src="https://streak-stats.demolab.com/?user=Aditya41150&theme=radical&hide_border=true" />
 </p>
 
+---
 
 ### 📫 Let's Connect
 
@@ -104,4 +140,6 @@
   <a href="https://link.minianon.in/aditya">All Links</a>
 </p>
 
-<p align="center"><i>🎯 Locked in — building, breaking, and learning one repo at a time.</i></p>
+<p align="center">
+  <i>🎯 Locked in — building, breaking, and learning one repo at a time.</i>
+</p>
