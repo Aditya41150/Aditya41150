@@ -121,10 +121,6 @@ See my [portfolio](https://aditya-s-porfolio.netlify.app/) for the complete proj
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya41150&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya41150&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aditya41150&theme=radical&hide_border=true" />
