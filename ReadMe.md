@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student · Full-Stack Developer · Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://aditya-s-porfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://adityaaa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aditya-1a0281251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://link.minianon.in/aditya"><img src="https://img.shields.io/badge/Links-FF5733?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
